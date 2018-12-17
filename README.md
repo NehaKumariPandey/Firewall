@@ -35,7 +35,6 @@ Ying Chen
 
 ##### Interested teams
 
-The Platform Team
-
 The Data Team
 
+The Platform Team
